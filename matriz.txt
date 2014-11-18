@@ -1,0 +1,4 @@
+jugador, rebotes, asistencias, puntos
+1, 504, 2005, 12006
+2, 480, 3080, 15987
+3, 289, 6780, 19054
